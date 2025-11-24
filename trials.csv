@@ -1,0 +1,5 @@
+s_image,r_image,target_sound,correct
+dog.jpg,horse.jpg,dog.wav.mp3,dog.jpg
+penguin.jpg,tiger.jpg,tiger.wav.mp3,tiger.jpg
+horse.jpg,dog.jpg,horse.wav.mp3,horse.jpg
+tiger.jpg,penguin.jpg,penguin.wav.mp3,penguin.jpg
